@@ -20,11 +20,10 @@
 
 - 🎓 B.Tech CSE undergraduate specializing in **IoT, Cybersecurity & Blockchain**
 - 🔭 Currently building **Smart Farm** — a complete IoT-based agricultural monitoring & control system
-- 🌱 Currently learning: **RTOS**, **Penetration Testing**, **Blockchain Development**
+<!--- 🌱 Currently learning: **Javascript**, **z**, **Blockchain Development**-->
 - 💡 Passionate about embedded systems, connected devices, and secure-by-design software
-- 🔐 Exploring the intersection of **IoT security** and **decentralized systems**
 - 📫 Reach me at [LinkedIn](https://linkedin.com/in/shuklashishir) or [Twitter](https://twitter.com/Shishirshukla19)
-- ⚡ Fun fact: I can debug hardware AND software bugs — sometimes simultaneously 🔧
+
 
 ---
 
@@ -49,10 +48,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -106,17 +102,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-> ⚠️ The snake animation requires a one-time GitHub Actions setup. See instructions below this README.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shishir067/Shishir067/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shishir067/Shishir067/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shishir067/Shishir067/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ## 🤝 Connect With Me
 
@@ -136,5 +121,5 @@
 </p>
 
 <p align="center">
-  <i>Open to collaborations on IoT, cybersecurity, and blockchain projects!</i>
+  <i>Open to collaborations on IoT and blockchain projects!</i>
 </p>
